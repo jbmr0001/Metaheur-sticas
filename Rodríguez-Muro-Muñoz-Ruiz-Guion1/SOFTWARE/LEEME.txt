@@ -1,0 +1,24 @@
+Carpeta BIN:
+	-MHPR1.jar: Ejutable de la práctica.
+
+Carpeta FUENTES:
+	-metaconfig.txt: archivo de configuración para la práctica.
+	-src:
+		-AlgGreedy_Clase4_Grupo7.java: Clase con el algoritmo Greedy.
+		-AlgMultiarranque_Clase4_Grupo7.java: Clase con el algoritmo Multiarranque.
+		-AlgPMDLBit_Clase4_Grupo7.java: Clase con el algoritmo Primer Mejor DLB Iterativo.
+		-AlgPMDLBrandom_Clase4_Grupo7.java: Clase con el algoritmo Primer Mejor DLB Random.
+		-Configuracion.java: Clase encargada de la lectura del fichero metaconfig.txt.
+		-Data.java: Clase encargada de la lectura del fichero de datos.
+		-Logger.java: Clase encargada de la creación de Logs.
+		-MHPR1.java: Clase principal de nuestra práctica.
+		-MetaRandom.java: Clase para la generación de aleatorios.
+
+IMPORTANTE:
+	Para ejecutar el JAR:
+	-Se necesita una carpeta llamada data con los datos en la raiz del proyecto.
+	-Se necesita una carpeta llamada log para el guardado de logs en la raiz del proyecto.
+	-Se necesita el fichero metaconfig.txt en la raiz del proyecto
+
+Práctica Desarrollada con NetBeans 12 y JDK 11
+

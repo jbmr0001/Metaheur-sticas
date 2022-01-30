@@ -1,0 +1,9 @@
+Semilla=26516720
+Fichero de Entrada=data\\ford01.dat
+Fichero de Salida=log\\
+Iteraciones=1000
+Tenencia Tabu=3
+Tamano LRC=10
+Probabilidad Oscilacion Estrategica=0.5
+Porcentaje de Iteraciones para Oscilacion=0.05
+Candidatos de la GREEDY aleatorizada=5

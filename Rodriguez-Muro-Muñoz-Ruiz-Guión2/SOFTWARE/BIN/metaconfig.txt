@@ -1,0 +1,14 @@
+Semilla=26523873 16720265 52387326 72026516 87326523
+Fichero de Entrada=data\\nissan01.dat
+Fichero de Salida=log\\
+Tamano LRC=5
+Candidatos de la GREEDY aleatorizada=5
+Tamano poblacion=50
+Evaluaciones=50000
+Probabilidad Cruce Estacionario=1.0
+Probabilidad Cruce Generacional=0.7
+Constante para Factor Mutacion Gen=0.001
+Cruce Estacionario=PMX
+Cruce Generacional=OX2
+
+

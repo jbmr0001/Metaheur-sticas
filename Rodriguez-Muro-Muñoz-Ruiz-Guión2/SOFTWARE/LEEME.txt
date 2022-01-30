@@ -1,0 +1,24 @@
+Carpeta BIN:
+	-MHPR2.jar: Ejutable de la práctica.
+	-metaconfig.txt: archivo de configuración para la práctica.
+	-data: Carpeta para almacenar los archivos de datos.
+	-log: Carpeta para almacenar los logs.
+
+Carpeta FUENTES:
+		-AlgGreedy_Clase4_Grupo7.java: Clase con el algoritmo Greedy.
+		-AGE_Clase4_Grupo7.java: Clase con el algoritmo Genético Estacional.
+		-AGG_Clase4_Grupo7.java: Clase con el algoritmo Genético Generacional.
+		-Configuracion.java: Clase encargada de la lectura del fichero metaconfig.txt.
+		-Data.java: Clase encargada de la lectura del fichero de datos.
+		-Logger.java: Clase encargada de la creación de Logs.
+		-MHPR2.java: Clase principal de nuestra práctica.
+		-MetaRandom.java: Clase para la generación de aleatorios.
+
+IMPORTANTE:
+	Para ejecutar el JAR:
+	-Se necesita una carpeta llamada data en la raiz del proyecto con los datos.
+	-Se necesita una carpeta llamada log en la raiz del proyecto para el guardado de logs.
+	-Se necesita el fichero metaconfig.txt en la raiz del proyecto
+
+Práctica Desarrollada con NetBeans 12 y JDK 11
+
